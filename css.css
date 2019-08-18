@@ -1,14 +1,13 @@
 body {
-	font-family: "Ariel";
-	border-color: blue;
+	font-family: "Avenir";
+	font-style: bold
 }
 
 h1 {
 	background-color: grey
-	font-family: "Ariel";
+	font-family: "Avenir";
 }
 
 ul {
 	color: red;
-    font-style: italic;
 }
